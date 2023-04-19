@@ -1,1 +1,1 @@
-keep_files:       [".well-known/mta-sts.txt"]
+keep_files:       ["/.well-known/mta-sts.txt"]
